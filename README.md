@@ -1,5 +1,4 @@
-# AST-net
-AST-Net: Arbitrary Style Transfer with Adaptive Over-parameterized Attention and Hierarchical Feature Fusion
+# AST-net：Arbitrary Style Transfer with Adaptive Over-parameterized Attention and Hierarchical Feature Fusion
 
 
 ## 🚧 Coming Soon
